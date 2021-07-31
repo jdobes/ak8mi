@@ -1,0 +1,1 @@
+tabu_search, hk48: min=13761, max=19586, mean=16284.2, median=16025.5, stddev=1430.1890411177583
